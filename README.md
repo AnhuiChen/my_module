@@ -1,1 +1,1 @@
-A simple Linux kernel module developed as tutorial code.
+This is my first linux kernel module.
